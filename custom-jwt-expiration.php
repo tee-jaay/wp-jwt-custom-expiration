@@ -7,6 +7,12 @@
  * Author URI: https://teejaay.me
  * License: MIT License
  * License URI: https://teejaay.me/wp-content/plugins/custom-jwt-expiration/license.txt
+ *
+ * Requires at least: 6.3.1
+ * Tested up to: 6.3.1
+ * Requires PHP: 8.1.17
+ * 
+ * @package Custom_JWT_Expiration
  */
 
 // Add the JWT expiration setting to the Settings menu

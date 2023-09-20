@@ -12,6 +12,9 @@ Custom JWT Expiration is a WordPress plugin that allows administrators to set th
 - Easy-to-use settings page.
 - Suitable for developers and administrators.
 
+## Required
+To proceed with the following steps, make sure you have installed and activated the plugin [Authentication for WPGraphQL using JWT](https://github.com/wp-graphql/wp-graphql-jwt-authentication) by following the instructions provided by the plugin.
+
 ## Installation
 
 1. Download the `custom-jwt-expiration.zip` file from the [latest release](https://github.com/tee-jaay/wp-jwt-custom-expiration/releases).
